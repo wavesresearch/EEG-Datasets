@@ -38,4 +38,5 @@ A list of all public EEG-datasets
   15. http://www.physionet.org/pn6/chbmit/
   16. https://sites.google.com/site/iitrcsepradeep7/resume
   17. https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software
+  18. https://dataverse.tdl.org/dataverse/rsed2017
   
