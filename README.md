@@ -40,5 +40,5 @@ A list of all public EEG-datasets
   17. https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software
   18. https://dataverse.tdl.org/dataverse/rsed2017
   19. https://physionet.org/physiobank/database/chbmit/
-  20. http://epileptologie-bonn.de/cms/upload/workgroup/lehnertz/eegdata.html
+  20. http://epileptologie-bonn.de/cms/front_content.php?idcat=193&lang=3&changelang=3
   
