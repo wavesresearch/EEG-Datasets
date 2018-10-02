@@ -41,4 +41,5 @@ A list of all public EEG-datasets
   18. https://dataverse.tdl.org/dataverse/rsed2017
   19. https://physionet.org/physiobank/database/chbmit/
   20. http://epileptologie-bonn.de/cms/front_content.php?idcat=193&lang=3&changelang=3
+  21. https://vis.caltech.edu/~rodri/data.htm
   
